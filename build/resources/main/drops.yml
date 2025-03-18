@@ -1,0 +1,8 @@
+itemspawn:
+  location: world, 100, 65, 200
+  materials:
+    - DIAMOND
+    - GOLD_INGOT
+    - IRON_INGOT
+    - EMERALD
+  interval: 600 # Intervalo em ticks (600L = 30 segundos)
